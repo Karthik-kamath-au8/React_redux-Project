@@ -1,0 +1,23 @@
+*{
+    margin:0 ;
+    padding:0;
+    box-sizing: border-box;
+}
+.container1{
+    display: inline-block;
+    flex-direction: column;
+    width: 200px;
+    height: 200px;
+    border:solid beige;
+    font-size: medium;
+
+
+}
+.box{
+    width:100vw;
+   display: flex;
+   justify-content: space-around;
+}
+.card{
+    width: 200px;
+}

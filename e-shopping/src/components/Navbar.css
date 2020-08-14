@@ -1,0 +1,37 @@
+.nav-wrapper{
+    display: flex;
+    text-decoration: none;
+    background: burlywood;
+    justify-content: space-between;
+    height: 40px;
+   
+    
+    
+}
+.right li {
+    display: inline-block;
+    width: 150px;
+    padding-left: 40px;
+    padding-right: 50px;
+    padding-top:12px; 
+}
+
+
+a:-webkit-any-link {
+    color: -webkit-link;
+    cursor: pointer;
+    text-decoration: none;
+    
+}
+
+   
+    
+
+.basket ion-icon{
+    vertical-align: bottom;
+    font-size: 20px;
+    padding-right: 5px;
+    color: royalblue;
+    
+    
+}
